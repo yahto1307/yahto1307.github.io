@@ -2,7 +2,7 @@
 
 Wall-E is a modern Jekyll template with a magazine-like grid layout on the frontpage, beautiful typography and uncomplicated content. 
 
-<img src="https://github.com/abhn/Wall-E/blob/master/tmp/desktop.png?raw=true">
+<img src="https://github.com/yahto1307/Wall-E/blob/master/tmp/desktop.png?raw=true">
 
 ## Demo
 [wall-e-jekyll.github.io/](https://wall-e-jekyll.github.io/)
@@ -49,24 +49,24 @@ Wall-E is fully furnished right out of the box. To use this template on your blo
 ## Screenshots (Desktop)
 
 ### Homepage
-<img src="https://github.com/abhn/Wall-E/blob/master/tmp/desktop.png?raw=true">
+<img src="https://github.com/yahto1307/Wall-E/blob/master/tmp/desktop.png?raw=true">
 
 ### Sample post
-<img src="https://github.com/abhn/Wall-E/blob/master/tmp/desktop-post.png?raw=true">
+<img src="https://github.com/yahto1307/Wall-E/blob/master/tmp/desktop-post.png?raw=true">
 
 ## Screenshots (Mobile)
 
 ### Homepage (Portrait)
-<img width="50%" src="https://github.com/abhn/Wall-E/blob/master/tmp/mobile.png?raw=true">
+<img width="50%" src="https://github.com/yahto1307/Wall-E/blob/master/tmp/mobile.png?raw=true">
 
 ### Homepage (Landscape)
-<img src="https://github.com/abhn/Wall-E/blob/master/tmp/mobile-landscape.png?raw=true">
+<img src="https://github.com/yahto1307/Wall-E/blob/master/tmp/mobile-landscape.png?raw=true">
 
 ### Sample post (Portrait)
-<img width="50%" src="https://github.com/abhn/Wall-E/blob/master/tmp/mobile-post.png?raw=true">
+<img width="50%" src="https://github.com/yahto1307/Wall-E/blob/master/tmp/mobile-post.png?raw=true">
 
 ### Footer (Landscape)
-<img src="https://github.com/abhn/Wall-E/blob/master/tmp/mobile-landscape-footer.png?raw=true">
+<img src="https://github.com/yahto1307/Wall-E/blob/master/tmp/mobile-landscape-footer.png?raw=true">
 
 
 ## Credits
